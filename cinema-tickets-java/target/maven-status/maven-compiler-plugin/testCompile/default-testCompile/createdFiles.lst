@@ -1,0 +1,12 @@
+uk/gov/dwp/uc/pairtest/exception/InvalidPurchaseExceptionTest.class
+uk/gov/dwp/uc/pairtest/validation/TicketPurchaseValidatorTest$ValidPurchases.class
+uk/gov/dwp/uc/pairtest/validation/TicketPurchaseValidatorTest$AccountId.class
+uk/gov/dwp/uc/pairtest/TicketServiceImplTest$ValidPurchases.class
+uk/gov/dwp/uc/pairtest/TicketServiceImplTest.class
+uk/gov/dwp/uc/pairtest/validation/TicketPurchaseValidatorTest$MaximumTickets.class
+uk/gov/dwp/uc/pairtest/TicketServiceImplTest$InvalidPurchases.class
+uk/gov/dwp/uc/pairtest/util/TicketRequestUtilsTest.class
+uk/gov/dwp/uc/pairtest/domain/TicketTypeRequestTest.class
+uk/gov/dwp/uc/pairtest/validation/TicketPurchaseValidatorTest$AdultSupervision.class
+uk/gov/dwp/uc/pairtest/validation/TicketPurchaseValidatorTest$TicketRequests.class
+uk/gov/dwp/uc/pairtest/validation/TicketPurchaseValidatorTest.class
